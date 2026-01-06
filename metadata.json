@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Grammar Tetris AI",
+  "description": "A linguistic twist on the classic Tetris game where you build grammatically correct sentences to clear lines, powered by Gemini AI for syntax validation.",
+  "requestFramePermissions": []
+}
